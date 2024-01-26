@@ -1,6 +1,6 @@
 ## NoBroker Playwright Scraper
 
-This is a web scraper built using Playwright in Python. This web scraper scrapes for data on rental properties listed on nobroker.in that are located near the existing metro lines of Mumbai (lines 1, 2A, and 7). Simply put, this scraper scrapes for rental properties located near every single metro station.
+This is a web scraper built using Playwright in Python. This web scraper scrapes for data on rental properties listed on nobroker.in that are located near the existing metro lines of Mumbai (lines 1, 2A, and 7). Simply put, this scraper scours nobroker.in for rental properties near every single metro station in Mumbai.
 
 I have used rotating proxy ip addresses while scraping to avoid blacklisting my own public ip address by the website.
 
