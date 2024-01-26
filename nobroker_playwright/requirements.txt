@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+joblib
+requests
+pytest-playwright
+pytest-reporter-html1
+selectolax
+pymongo
+python-dotenv

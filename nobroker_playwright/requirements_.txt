@@ -1,0 +1,13 @@
+numpy
+pandas
+selectolax
+pymongo
+requests
+python-dotenv
+schedule
+playwright
+matplotlib
+seaborn
+plotly
+scikit-learn
+geopy
